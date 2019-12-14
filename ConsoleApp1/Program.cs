@@ -30,7 +30,8 @@ namespace ConsoleApp1
                 Console.WriteLine(item);
             }
             ss.BestStudent();
-           // ss.Save();
+            ss.Save();
+            Console.WriteLine("Hello world");
         }
     }
 }
