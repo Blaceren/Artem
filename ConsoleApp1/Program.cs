@@ -16,7 +16,7 @@ namespace ConsoleApp1
             StudentService ss = new StudentService();
             ss.Add(new student() { Name = "Artem", LastName = "Lomanyuk", Age = 20 });
             ss.Add(new student() { Name = "Petro", LastName = "Petrenko", Age = 22 });
-            Random random = new Random();
+            
             int[] arr = { 1, 2, 3, 4 };
             foreach (var item in ss.Students)
             {
