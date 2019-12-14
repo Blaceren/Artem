@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 
+using Newtonsoft.Json;
+
 namespace StudentLibrary1
 {
     
@@ -62,10 +64,13 @@ namespace StudentLibrary1
             double max = arr.Max();
             Console.WriteLine("BEST!!!!!!!!!!!: ");
             Console.WriteLine(temp.Find(x => x.marks.Average(y => y.Rating)==max));
-            
-          
+                     
         }
-        
+        public void SaveJSON()
+        {
+            string json = JsonConvert.SerializeObject(Students, Formatting.Indented);
+            File.WriteAllText("Stud.json", json);
+        }
         
     }
 }

@@ -1,0 +1,2418 @@
+[
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 1,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 2,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 3,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 4,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 5,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 6,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 7,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 8,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 9,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 10,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 11,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 12,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 13,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 14,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 15,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 20,
+    "Name": "Artem",
+    "LastName": "Lomanyuk",
+    "marks": [
+      {
+        "Rating": 15,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 16,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 19,
+        "Subject": "C++"
+      }
+    ]
+  },
+  {
+    "Age": 22,
+    "Name": "Petro",
+    "LastName": "Petrenko",
+    "marks": [
+      {
+        "Rating": 16,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 19,
+        "Subject": "C#"
+      },
+      {
+        "Rating": 17,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 18,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 19,
+        "Subject": "C++"
+      },
+      {
+        "Rating": 20,
+        "Subject": "C++"
+      }
+    ]
+  }
+]

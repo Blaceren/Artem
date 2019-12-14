@@ -32,6 +32,7 @@ namespace ConsoleApp1
             ss.BestStudent();
             ss.Save();
             Console.WriteLine("Hello world");
+            ss.SaveJSON();
         }
     }
 }
